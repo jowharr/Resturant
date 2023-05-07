@@ -1,4 +1,4 @@
-# Resturant Wensite
+# Resturant Website
 This is a sample website for a restaurant, built using React.
 
 To install this project, you will need to have npm installed on your machine. You can then run the following commands in your terminal:
